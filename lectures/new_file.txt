@@ -1,4 +1,0 @@
-This is a new line of text.This is also a new line of text.
-This is actually a new line of text.
-This is a line written with writelines().
-Remember to add in the linebreaks manually.
